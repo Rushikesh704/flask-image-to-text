@@ -16,9 +16,6 @@ This is a simple web application built with Flask for performing Optical Charact
 - requests==2.26.0
 - reportlab==3.6.1
 
-## Usage
-
-1. Start the Flask server:
 
 ## Usage
 
